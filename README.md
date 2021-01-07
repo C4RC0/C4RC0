@@ -1,4 +1,8 @@
-# Hi there
+# Hello World!
+
+### <div align="center">
+I'm Carco, a full-stack javascript developer 👨‍💻 graphic designer, artist
+</div>
 
 - My professional project is the [Wapplr](https://github.com/wapplr)
 - My artistic a visual works will be here and on my [Behance](https://www.behance.net/C4RC0) soon
@@ -11,7 +15,7 @@ In addition to digital creations, I was lucky enough to learn painting from a re
 I go to drum lesson once a week just for fun.
 My son will be born soon!:baby:
 
-## Professional Skills
+### Professional Skills
 
 - Javascript development since 2010, active years 2014-present
 - Photoshop, Illustrator graphic design since 2006, active years 2006-2014
@@ -19,7 +23,7 @@ My son will be born soon!:baby:
 
 I like to do things and jobs that I can be either professionally or artistically proud of. When I work to a customer or a company, I like to make complex, complete systems.
 
-## Libraries which I know and use
+### Libraries which I know and use
 
 - [NodeJs](https://github.com/nodejs) 
 - [Express](https://github.com/expressjs/express)
@@ -32,12 +36,12 @@ I like to do things and jobs that I can be either professionally or artistically
 - [Material-ui](https://github.com/mui-org/material-ui)
 - [Redux](https://github.com/reduxjs/redux)
 
-## ...and of course my libs⚡:
+### ...and of course my libs⚡:
 
 - [Wapplr](https://github.com/wapplr/wapplr) 
 - [Wapplr-cli](https://github.com/wapplr/wapplr-cli) 
 
-## This document is under construction, more content is expected soon.
+### This document is under construction, more content is expected soon.
 
 
 <!--
