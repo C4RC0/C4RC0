@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi there
 
-- My professional project is [Wapplr](https://github.com/wapplr)
+- My professional project is the [Wapplr](https://github.com/wapplr)
 - My artistic a visual works will be here and on my [Behance](https://www.behance.net/C4RC0) soon
 - The developments and designs what I make for my clients are in its own repositories, I refer to them from some places
 
@@ -12,7 +12,7 @@
 
 I like to do things and jobs that I can be either professionally or artistically proud of. When I work to a customer or a company, I like to make complex, complete systems.
 
-## Libraries what I know
+## Libraries which I know and use
 
 - [NodeJs](https://github.com/nodejs) 
 - [Express](https://github.com/expressjs/express)
@@ -25,7 +25,7 @@ I like to do things and jobs that I can be either professionally or artistically
 - [Material-ui](https://github.com/mui-org/material-ui)
 - [Redux](https://github.com/reduxjs/redux)
 
-## ...and of course my libs <3:
+## ...and of course my libs⚡:
 
 - [Wapplr](https://github.com/wapplr/wapplr) 
 - [Wapplr-cli](https://github.com/wapplr/wapplr-cli) 
