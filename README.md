@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 - My professional project is [Wapplr](https://github.com/wapplr)
 - My artistic a visual works will be here and on my [Behance](https://www.behance.net/C4RC0) soon
@@ -25,12 +25,12 @@ I like to do things and jobs that I can be either professionally or artistically
 - [Material-ui](https://github.com/mui-org/material-ui)
 - [Redux](https://github.com/reduxjs/redux)
 
-# ...and of course my libs <3:
+## ...and of course my libs <3:
 
 - [Wapplr](https://github.com/wapplr/wapplr) 
 - [Wapplr-cli](https://github.com/wapplr/wapplr-cli) 
 
-# This document is under construction, more content is expected soon
+## This document is under construction, more content is expected soon.
 
 
 <!--
