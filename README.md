@@ -4,6 +4,13 @@
 - My artistic a visual works will be here and on my [Behance](https://www.behance.net/C4RC0) soon
 - The developments and designs what I make for my clients are in its own repositories, I refer to them from some places
 
+I am 35 years old. I moved close to the nature from the city 1 year ago with my wife. 
+Carco is my artist name, which I got as a techno musician (2001-2008). My real name is Charles. 
+Since I was 8, I have been using computers to create with a variety of media: music, graphics, 3d, animations, software. 
+In addition to digital creations, I was lucky enough to learn painting from a real master on paintings for 1 year, so if my time allows I paint. 
+I go to drum lesson once a week just for fun.
+My son will be born soon
+
 ## Professional Skills
 
 - Javascript development since 2010, active years 2014-present
