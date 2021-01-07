@@ -1,8 +1,6 @@
 # Hello World!
 
-### <div align="center">
-I'm Carco, a full-stack javascript developer 👨‍💻 graphic designer, artist
-</div>
+### <div align="center">I'm Carco, a full-stack javascript developer 👨‍💻 graphic designer, artist</div>
 
 - My professional project is the [Wapplr](https://github.com/wapplr)
 - My artistic a visual works will be here and on my [Behance](https://www.behance.net/C4RC0) soon
