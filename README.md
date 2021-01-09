@@ -4,8 +4,8 @@
 
 - My professional project is the [Wapplr](https://github.com/wapplr)
 - My artistic a visual works will be here and on my [Behance](https://www.behance.net/C4RC0) soon
-- The developments and designs what I make for my clients are in its own repositories, I refer to them from some places. [FlatChooser](https://flatchooser.reeltime.no/), [Vendeglatosmunkak.hu](https://vendeglatosmunkak.hu/)...
-- Some of my own hobby projects that I will be publishing soon here: [DrawMessage](https://drawmessage.com/), [MaskedQuiz](https://maskedquiz.com/)...
+- The developments and designs what I make for my clients are in its own repositories, I refer to them from some places. Eg: [FlatChooser](https://flatchooser.reeltime.no/) is a Flat chooser application platform and editor, development for the largest Norwegian real estate company. [Vendeglatosmunkak.hu](https://vendeglatosmunkak.hu/) is the largest Hungarian advertising portal for caterers.
+- Some of my own hobby projects that I will be publishing soon here: the [DrawMessage](https://drawmessage.com/) is an "image from text" editor where you can create, save and share cool images after logging in. The [MaskedQuiz](https://maskedquiz.com/) is a game: try it! I made it recently, it’s pretty current...
 
 I am 35 years old. I moved close to the nature from the city 1 year ago with my wife. 
 Carco is my artist name, which I got as a techno musician (2001-2008). My real name is Charles. 
