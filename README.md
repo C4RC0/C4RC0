@@ -20,7 +20,7 @@ My son will be born soon!:baby:
 - Photoshop, Illustrator graphic design since 2006, active years 2006-2014
 - Painting (canvas, oil) since 2011, active years 2011-2014
 
-I like to do things and jobs that I can be either professionally or artistically proud of. When I work to a customer or a company, I like to make complex, complete systems.
+I like to do things and jobs that I can be either professionally or artistically proud of. When I work to a customer or a company, I like to make complex, complete systems. 
 
 ### Libraries which I know and use
 
