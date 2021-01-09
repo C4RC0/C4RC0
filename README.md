@@ -4,7 +4,7 @@
 
 - My professional project is the [Wapplr](https://github.com/wapplr)
 - My artistic a visual works will be here and on my [Behance](https://www.behance.net/C4RC0) soon
-- The developments and designs what I make for my clients are in its own repositories, I refer to them from some places. Eg: [FlatChooser](https://flatchooser.reeltime.no/) is a Flat chooser application platform and editor, development for the largest Norwegian real estate company. [Vendeglatosmunkak.hu](https://vendeglatosmunkak.hu/) is the largest Hungarian advertising portal for caterers.
+- The developments and designs what I make for my clients are in its own repositories, I refer to them from some places. Eg: [FlatChooser](https://flatchooser.reeltime.no/) is a Flat chooser application platform and editor, development for the largest Norwegian real estate company. [Vendeglatosmunkak.hu](https://vendeglatosmunkak.hu/) is the largest Hungarian advertising portal for caterers. The [OkosDoboz](http://www.okosdoboz.hu/hu-hu/Exercises/Index?classes=1&topic=819) is a Hungarian educational game platform. Thousands of educational games have been created with the editor I have developed. (The site that runs this was not created by me).
 - Some of my own hobby projects that I will be publishing soon here: the [DrawMessage](https://drawmessage.com/) is an "image from text" editor where you can create, save and share cool images after logging in. The [MaskedQuiz](https://maskedquiz.com/) is a game: try it! I made it recently, it’s pretty current...
 
 I am 35 years old. I moved close to the nature from the city 1 year ago with my wife. 
@@ -34,6 +34,7 @@ I like to do things and jobs that I can be either professionally or artistically
 - [React](https://github.com/facebook/react)
 - [Material-ui](https://github.com/mui-org/material-ui)
 - [Redux](https://github.com/reduxjs/redux)
+- [ThreeJs](https://github.com/mrdoob/three.js/)
 
 ### ...and of course my libs⚡:
 
