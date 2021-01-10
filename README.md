@@ -3,15 +3,15 @@
 ### <div align="center">I'm Carco, a full-stack javascript developer 👨‍💻 graphic designer, artist</div>
 
 - My professional project is the [Wapplr](https://github.com/wapplr)
-- My artistic a visual works will be here and on my [Behance](https://www.behance.net/C4RC0) soon
-- The developments and designs what I make for my clients are in its own repositories, I refer to them from some places. Eg: [FlatChooser](https://flatchooser.reeltime.no/) is a Flat chooser application platform and editor, development for the largest Norwegian real estate company. [Vendeglatosmunkak.hu](https://vendeglatosmunkak.hu/) is the largest Hungarian advertising portal for caterers. The [OkosDoboz](http://www.okosdoboz.hu/hu-hu/Exercises/Index?classes=1&topic=819) is a Hungarian educational game platform. Thousands of educational games have been created with the editor I have developed. (The site that runs this was not created by me).
-- Some of my own hobby projects that I will be publishing soon here: the [DrawMessage](https://drawmessage.com/) is an "image from text" editor where you can create, save and share cool images after logging in. The [MaskedQuiz](https://maskedquiz.com/) is a game: try it! I made it recently, it’s pretty current...
+- My artistic visual works will be here and on my [Behance](https://www.behance.net/C4RC0) soon
+- The developments and designs what I create for my clients are in its own repositories, I refer to them from some places. Eg: [FlatChooser](https://flatchooser.reeltime.no/) is a Flat chooser application platform and editor, development for the largest Norwegian real estate company. [Vendeglatosmunkak.hu](https://vendeglatosmunkak.hu/) is the largest Hungarian advertising portal for caterers. The [OkosDoboz](http://www.okosdoboz.hu/hu-hu/Exercises/Index?classes=1&topic=819) is a Hungarian educational game platform. Thousands of educational games have been created succesfully with the editor I have developed. (The site that runs this was not created by me).
+- Some of my own hobby projects will be published soon here: the [DrawMessage](https://drawmessage.com/) is an "image from text" editor where you can create, save and share cool images after logging in. The [MaskedQuiz](https://maskedquiz.com/) is a game: try it! I made it recently, it’s pretty current...
 
-I am 35 years old. I moved close to the nature from the city 1 year ago with my wife. 
+I am 35 years old. I moved with my wife close to the nature from the city 1 year ago. 
 Carco is my artist name, which I got as a techno musician (2001-2008). My real name is Charles. 
-Since I was 8, I have been using computers to create with a variety of media: music, graphics, 3d, animations, software. 
+Since my age 8 I have been using computers to create with a variety of media: music, graphics, 3d, animations, software. 
 In addition to digital creations, I was lucky enough to learn painting from a real master on paintings for 1 year, so if my time allows I paint. 
-I go to drum lesson once a week just for fun.
+I go to drum lessons once a week just for fun.
 My son will be born soon!:baby:
 
 ### Professional Skills
@@ -20,7 +20,7 @@ My son will be born soon!:baby:
 - Photoshop, Illustrator graphic design since 2006, active years 2006-2014
 - Painting (canvas, oil) since 2011, active years 2011-2014
 
-I like to do things and jobs that I can be either professionally or artistically proud of. When I work to a customer or a company, I like to make complex, complete systems. 
+I like to do things and jobs that I can be either professionally or artistically proud of. In case I work for a customer or a company, I prefer to create complex, complete systems. 
 
 ### Libraries which I know and use
 
